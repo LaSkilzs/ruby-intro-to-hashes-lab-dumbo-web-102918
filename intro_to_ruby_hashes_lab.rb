@@ -2,7 +2,8 @@ def new_hash
   Hash.new()
 end
 
-def actor
+def actor(key)
+  result[:name] = "Dwayne The Rock Johnson"
 
 end
 
